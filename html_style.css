@@ -1,0 +1,15 @@
+  body {
+    margin-left:20px;
+  }
+  a { 
+		text-decoration:underline dotted #ccc;
+		color:#000000;
+  }
+  a:hover { color:#3399ff; }
+	
+  div {  display:inline-block;  }
+
+  span { display:inline-block; }
+  
+  .tag { color:green; }
+  
